@@ -1,6 +1,7 @@
 ## </Saudações, seja bem-vindo... Me chamo Breno_Santos>
 
-### Local onde faço os Compartilhamentos e Versionamentos dos meus Projetos de Código.
+### Local onde Compartilho e faço Versionamentos dos meus Projetos de Código.
+> Implementando às minhas ideias, e contribuindo para o ecossistema de desenvolvimento.
 
 - Graduando em Data Science.
 - Atuo na Transformação de Dados em Decisões.
