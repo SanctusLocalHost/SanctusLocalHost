@@ -4,7 +4,6 @@
 > Implementando às minhas ideias, e contribuindo para o ecossistema de desenvolvimento.
 
 - Graduando em Data Science.
-- Atuo na Transformação de Dados em Decisões.
 - Programador nas horas vagas.
 - Predileção na criação de Scripts de Automação.
 - Focado no Desenvolvimento de Scripts CLI - Command Line Interface.
@@ -32,6 +31,7 @@
 - Site
 - Youtube Channel
 - Telegram Channel
+- Email
 
 > “A Matemática é o Alfabeto com o qual Deus escreveu o Universo”
 > ~Galileu Galilei.
