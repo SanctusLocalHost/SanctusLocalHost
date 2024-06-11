@@ -1,4 +1,4 @@
-## </Saudações, seja bem-vindo... Me chamo Breno_Santos>
+## </Saudações, sejam bem-vindos... Me chamo Breno_Santos>
 
 ### Local onde Compartilho e faço Versionamentos dos meus Projetos de Código.
 > Implementando às minhas ideias, e contribuindo para o ecossistema de desenvolvimento.
