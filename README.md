@@ -1,7 +1,6 @@
 ## </Saudações, sejam bem-vindos... Me chamo Breno_Santos>
 
 ### Local onde Compartilho e faço Versionamentos dos meus Projetos de Código.
-> Implementando às minhas ideias, e contribuindo para o ecossistema de desenvolvimento.
 
 - Graduando em Data Science.
 - Programador nas horas vagas.
@@ -29,9 +28,8 @@
 ## Redes Sociais e Contato (Em Breve...)
 
 - Site
-- Youtube Channel
 - Telegram Channel
-- Email
+- E-mail
 
 > “A Matemática é o Alfabeto com o qual Deus escreveu o Universo”
 > ~Galileu Galilei.
