@@ -29,7 +29,7 @@
 
 - Site
 - Telegram Channel
-- E-mail
+- E-mail: SanctusLocalhost@Proton.me
 
 > “A Matemática é o Alfabeto com o qual Deus escreveu o Universo”
 > ~Galileu Galilei.
