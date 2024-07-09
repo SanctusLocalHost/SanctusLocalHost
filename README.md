@@ -4,7 +4,7 @@
 
 - Graduando em Data Science.
 - Programador nas horas vagas.
-- Predileção na criação de Scripts de Automação.
+- Predileção na criação de Softwares de Automação.
 - Focado no Desenvolvimento de Scripts CLI - Command Line Interface.
 
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
