@@ -6,7 +6,6 @@
 - Programador nas horas vagas.
 - Predileção na criação de Scripts de Automação.
 - Focado no Desenvolvimento de Scripts CLI - Command Line Interface.
-- Transformação de Planilhas em "Softwares de Controle e Verificação".
 
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanctusLocalHost&hide_progress=true&theme=chartreuse-dark)
@@ -25,11 +24,5 @@
   
 </div><br/>
 
-## Redes Sociais e Contato (Em Breve...)
 
-- Site
-- Telegram Channel
 - E-mail: SanctusLocalhost@Proton.me
-
-> “A Matemática é o Alfabeto com o qual Deus escreveu o Universo”
-> ~Galileu Galilei.
