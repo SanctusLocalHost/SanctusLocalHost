@@ -26,4 +26,4 @@
 
 
 - E-mail: SanctusLocalhost@Proton.me
-- Telegram: T.me/Sanctus_Localhost
+- Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
