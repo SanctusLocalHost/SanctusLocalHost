@@ -1,8 +1,6 @@
-## </Saudações, sejam bem-vindos... Me chamo Breno_Santos>
+## Local onde Compartilho e faço Versionamentos dos meus Projetos de Código.
 
-### Local onde Compartilho e faço Versionamentos dos meus Projetos de Código.
-
-- Graduando em Data Science.
+- Acadêmico em Data Science.
 - Programador nas horas vagas.
 - Predileção na criação de Softwares de Automação.
 - Focado no Desenvolvimento de Scripts CLI - Command Line Interface.
