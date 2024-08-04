@@ -1,4 +1,4 @@
-## Local onde Compartilho e faço Versionamentos dos meus Projetos de Código.
+## Local para Compartilhamentos e Versionamentos dos meus Projetos de Código.
 
 - Acadêmico em Data Science.
 - Programador nas horas vagas.
