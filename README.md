@@ -20,6 +20,8 @@
   
 </div><br/>
 
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SanctusLocalHost/count.svg" /></p>
 
 - E-mail: SanctusLocalhost@Proton.me
 - Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
