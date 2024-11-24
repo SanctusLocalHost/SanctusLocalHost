@@ -1,8 +1,8 @@
 ## Local para Compartilhar e Versionar meus Projetos de Código.
 
 - Programador nas horas vagas.
-- Predileção na criação de Softwares de Automação.
-- Focado no Desenvolvimento de Scripts CLI - Command Line Interface.
+- Criação de Softwares de Automação.
+- Desenvolvimento de Scripts CLI - Command Line Interface.
 
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanctusLocalHost&hide_progress=true&theme=chartreuse-dark)
