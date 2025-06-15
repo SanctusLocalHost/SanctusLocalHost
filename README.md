@@ -5,7 +5,6 @@
 - Desenvolvimento de Scripts CLI - Command Line Interface.
 
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanctusLocalHost&hide_progress=true&theme=chartreuse-dark)
 
 ## Linguagens de Codificação Utilizadas
 
