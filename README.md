@@ -1,10 +1,19 @@
-## Local para Compartilhar e Versionar meus Projetos de Código.
+# 🧬 Laboratório de Códigos.
+Repositório pessoal com foco em automação, scripts reutilizáveis e ferramentas de linha de comando (CLI), usando principalmente Python.
+<br/>
 
-- Programador nas horas vagas.
+## 🧰 O que encontrará aqui:
+- Experimentos controlados com scripts em Python.
 - Criação de Softwares de Automação.
-- Desenvolvimento de Scripts CLI - Command Line Interface.
+- Utilitários reutilizáveis.
+- Desenvolvimento de Scripts CLI (Command Line Interface).
 
+> Sem frescura... Apenas código funcional e direto ao ponto.
+<br/>
+
+## 📊 GitHub Stats
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
+<br/>
 
 ## Linguagens de Codificação Utilizadas
 
@@ -18,12 +27,17 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   
 </div><br/>
+<br/>
 
-</br>
+## 📫 Contatos
+- E-mail: [SanctusLocalhost@Proton.me](mailto:SanctusLocalhost@Proton.me)  
+- Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
+<br/>
+
+## 🧮 Visitantes
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SanctusLocalHost/count.svg" /></p>
 
-- E-mail: SanctusLocalhost@Proton.me
-- Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
+
 
 
 
