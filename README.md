@@ -15,7 +15,6 @@ Repositório pessoal com foco em automação, scripts reutilizáveis e ferrament
 ## 📊 GitHub Stats
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
 <br/>
-<br/>
 
 ## Linguagens de Codificação Utilizadas
 
