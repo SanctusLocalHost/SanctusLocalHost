@@ -1,4 +1,4 @@
-# 🧬 Laboratório de Códigos.
+# 🧬 Laboratório de Comandos.
 Repositório pessoal com foco Automação, Scripts reutilizáveis e Ferramentas de linha de comando (CLI), usando principalmente Python.
 <br/>
 
