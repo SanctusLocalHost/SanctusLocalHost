@@ -1,7 +1,7 @@
 # 🧬 Laboratório de Códigos.
 Repositório pessoal com foco em automação, scripts reutilizáveis e ferramentas de linha de comando (CLI), usando principalmente Python.
 <br/>
-<br/>
+
 ## 📦 O que encontrará aqui:
 - Experimentos controlados com scripts em Python.
 - Criação de Softwares de Automação.
@@ -10,9 +10,11 @@ Repositório pessoal com foco em automação, scripts reutilizáveis e ferrament
 
 > Sem frescura... Apenas código funcional e direto ao ponto.
 <br/>
+<br/>
 
 ## 📊 GitHub Stats
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
+<br/>
 <br/>
 
 ## Linguagens de Codificação Utilizadas
