@@ -3,10 +3,10 @@ Repositório pessoal com foco em automação, scripts reutilizáveis e ferrament
 <br/>
 
 ## 📦 O que encontrará aqui:
-- Experimentos controlados com scripts em Python.
-- Criação de Softwares de Automação.
-- Utilitários reutilizáveis.
-- Desenvolvimento de Scripts CLI (Command Line Interface).
+- 🔬 = Experimentos controlados com scripts em Python.
+- 🤖 = Criação de Softwares de Automação.
+- ⚙️ = Utilitários reutilizáveis.
+- 💻 = Desenvolvimento de Scripts CLI (Command Line Interface).
 
 > Sem frescura... Apenas código funcional e direto ao ponto.
 <br/>
