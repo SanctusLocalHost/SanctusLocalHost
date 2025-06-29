@@ -1,7 +1,7 @@
 # 🧬 Laboratório de Códigos.
 Repositório pessoal com foco em automação, scripts reutilizáveis e ferramentas de linha de comando (CLI), usando principalmente Python.
 <br/>
-
+<br/>
 ## 📦 O que encontrará aqui:
 - Experimentos controlados com scripts em Python.
 - Criação de Softwares de Automação.
