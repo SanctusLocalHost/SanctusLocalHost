@@ -1,5 +1,5 @@
 # 🧬 Laboratório de Comandos.
-Repositório pessoal com foco Automação, Scripts reutilizáveis e Ferramentas de linha de comando (CLI), usando principalmente Python.
+Repositório pessoal com foco em Automação, Scripts reutilizáveis e Ferramentas de linha de comando (CLI), usando principalmente Python.
 <br/>
 
 ## 📦 Aqui encontrará:
