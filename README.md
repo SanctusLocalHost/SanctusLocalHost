@@ -1,14 +1,14 @@
-# 🧬 Laboratório de Comandos.
-Repositório pessoal com foco em Automação, Scripts reutilizáveis e Ferramentas de linha de comando (CLI), usando principalmente Python.
+# 🧬 Command Lab
+Personal repository focused on Automation, Reusable Scripts, and Command Line Tools (CLI), primarily using Python.
 <br/>
 
-## 📦 Aqui encontrará:
-- 🔬 = Experimentos controlados com scripts em Python.
-- 🤖 = Criação de Softwares de Automação.
-- ⚙️ = Utilitários reutilizáveis.
-- 💻 = Desenvolvimento de Scripts CLI (Command Line Interface).
+## 📦 Here you'll find:
+- 🔬 = Controlled experiments with Python scripts.
+- 🤖 = Automation Software development.
+- ⚙️ = Reusable utilities.
+- 💻 = CLI (Command Line Interface) Script development.
 
-> Sem frescura... Apenas código funcional e direto ao ponto.
+> No fluff... Just functional code, straight to the point.
 <br/>
 
 ## 📊 GitHub Stats
@@ -16,7 +16,7 @@ Repositório pessoal com foco em Automação, Scripts reutilizáveis e Ferrament
 <br/>
 <br/>
 
-## Linguagens de Codificação Utilizadas
+## Coding Languages Used
 
 <div style="display: inline_block">
   
@@ -30,15 +30,10 @@ Repositório pessoal com foco em Automação, Scripts reutilizáveis e Ferrament
 </div><br/>
 <br/>
 
-## 📫 Contatos
+## 📫 Contact
 - E-mail: [SanctusLocalhost@Proton.me](mailto:SanctusLocalhost@Proton.me)  
 - Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
 <br/>
 
-## 🧮 Visitantes
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SanctusLocalHost/count.svg" /></p>
-
-
-
-
-
+## 🧮 Visitors
+<p align="center">   <img align="center" src="https://profile-counter.glitch.me/SanctusLocalHost/count.svg" /></p>
