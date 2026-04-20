@@ -1,17 +1,17 @@
-# 🧬 Command Lab
+# Command Lab
 Personal repository focused on Automation, Reusable Scripts, and Command Line Tools (CLI), primarily using Python.
 <br/>
 
-## 📦 Here you'll find:
-- 🔬 = Controlled experiments with Python scripts.
-- 🤖 = Automation Software development.
-- ⚙️ = Reusable utilities.
-- 💻 = CLI (Command Line Interface) Script development.
+## Here you'll find:
+- Controlled experiments with Python scripts.
+- Automation Software development.
+- Reusable utilities.
+- CLI (Command Line Interface) Script development.
 
 > No fluff... Just functional code, straight to the point.
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
 <br/>
 <br/>
@@ -30,10 +30,10 @@ Personal repository focused on Automation, Reusable Scripts, and Command Line To
 </div><br/>
 <br/>
 
-## 📫 Contact
+## Contact
 - E-mail: [SanctusLocalhost@Proton.me](mailto:SanctusLocalhost@Proton.me)  
 - Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
 <br/>
 
-## 🧮 Visitors
+## Visitors
 <p align="center">   <img align="center" src="https://profile-counter.glitch.me/SanctusLocalHost/count.svg" /></p>
