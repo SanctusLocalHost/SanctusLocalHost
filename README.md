@@ -1,39 +1,77 @@
-# Command Lab
-Personal repository focused on Automation, Reusable Scripts, and Command Line Tools (CLI), primarily using Python.
-<br/>
+<div align="center">
+  <img src="assets/matrix-rain.gif" alt="" width="100%" />
+</div>
 
-## Here you'll find:
+<h1 align="center">Command Lab</h1>
+
+<p align="center">
+  Personal repository focused on Automation, Reusable Scripts, and Command Line Tools (CLI), primarily using Python.
+</p>
+
+<div align="center">
+  <img src="assets/matrix-divider.png" alt="" width="82%" />
+</div>
+
+<h2 align="center">Here you'll find:</h2>
+
 - Controlled experiments with Python scripts.
 - Automation Software development.
 - Reusable utilities.
 - CLI (Command Line Interface) Script development.
 
-> No fluff... Just functional code, straight to the point.
-<br/>
+<table>
+  <tr>
+    <td width="5"><img src="assets/matrix-bar.png" width="5" height="56" alt="" /></td>
+    <td>No fluff... Just functional code, straight to the point.</td>
+  </tr>
+</table>
 
-## GitHub Stats
-![Sanctus@Localhost](https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&theme=chartreuse-dark)
-<br/>
-<br/>
+<div align="center">
+  <img src="assets/matrix-divider.png" alt="" width="82%" />
+</div>
 
-## Coding Languages Used
+<h2 align="center">GitHub Stats</h2>
 
-<div style="display: inline_block">
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-</div><br/>
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanctusLocalHost&show_icons=true&bg_color=000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41&border_color=00FF41&border_radius=6&cache_seconds=1800" alt="Sanctus@Localhost" />
+</div>
 
-## Contact
-- E-mail: [SanctusLocalhost@Proton.me](mailto:SanctusLocalhost@Proton.me)  
-- Telegram: [@Sanctus_Localhost](https://t.me/Sanctus_Localhost)
-<br/>
+<div align="center">
+  <img src="assets/matrix-divider.png" alt="" width="82%" />
+</div>
 
-## Visitors
-<p align="center">   <img align="center" src="https://profile-counter.glitch.me/SanctusLocalHost/count.svg" /></p>
+<h2 align="center">Coding Languages Used</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00FF41" alt="python" />
+  <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" alt="html5" />
+  <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=00FF41" alt="markdown" />
+  <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" alt="typescript" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00FF41" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" alt="Linux" />
+</p>
+
+<div align="center">
+  <img src="assets/matrix-divider.png" alt="" width="82%" />
+</div>
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  E-mail: <a href="mailto:SanctusLocalhost@Proton.me">SanctusLocalhost@Proton.me</a><br/>
+  Telegram: <a href="https://t.me/Sanctus_Localhost">@Sanctus_Localhost</a>
+</p>
+
+<div align="center">
+  <img src="assets/matrix-divider.png" alt="" width="82%" />
+</div>
+
+<h2 align="center">Visitors</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanctusLocalHost&label=Visitors&color=00FF41&labelColor=000000&style=for-the-badge" alt="Visitors" />
+</p>
+
+<div align="center">
+  <img src="assets/matrix-footer.png" alt="" width="100%" />
+</div>
