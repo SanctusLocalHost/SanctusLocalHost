@@ -58,8 +58,8 @@
 <h2 align="center">Contact</h2>
 
 <p align="center">
-  E-mail: <a href="mailto:SanctusLocalhost@Proton.me">SanctusLocalhost@Proton.me</a><br/>
-  Telegram: <a href="https://t.me/Sanctus_Localhost">@Sanctus_Localhost</a>
+  <img src="assets/protonmail.png" alt="Proton Mail" width="18" height="18" align="middle" /> E-mail: <a href="mailto:SanctusLocalhost@Proton.me">SanctusLocalhost@Proton.me</a><br/>
+  <img src="assets/telegram.png" alt="Telegram" width="18" height="18" align="middle" /> Telegram: <a href="https://t.me/Sanctus_Localhost">@Sanctus_Localhost</a>
 </p>
 
 <div align="center">
@@ -73,5 +73,5 @@
 </p>
 
 <div align="center">
-  <img src="assets/matrix-footer.png" alt="" width="100%" />
+  <img src="assets/matrix-footer.gif" alt="" width="100%" />
 </div>
